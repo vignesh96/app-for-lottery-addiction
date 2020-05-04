@@ -1,0 +1,1 @@
+# app-for-lottery-addiction
